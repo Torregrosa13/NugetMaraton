@@ -8,6 +8,7 @@
     <Title>NugetMaratonVDB</Title>
     <Authors>Codegrosa</Authors>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

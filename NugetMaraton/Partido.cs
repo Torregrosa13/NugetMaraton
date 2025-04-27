@@ -32,5 +32,9 @@ namespace NugetMaraton
 
         [Column("Fase")]
         public string Fase { get; set; }
+
+        public Equipo EquipoLocal { get; set; }
+        public Equipo EquipoVisitante { get; set; }
+
     }
 }
